@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import sys, os, hashlib, base64
 
 PREFIX = 'https://raw.githubusercontent.com/cd-public/books/main/' # DONT scrap Gutenberg
